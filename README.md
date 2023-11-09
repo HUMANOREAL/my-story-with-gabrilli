@@ -3,4 +3,4 @@
 <img src="https://media.discordapp.net/attachments/1171969120573607966/1172104494704767036/rn_image_picker_lib_temp_7f7bf344-b316-411c-b5ca-253a62d02505.jpg"></img>
 </h1>
 
-<p align="rigth">Estamos atualziando essa história constantimente.</p>
+<p align="right">Estamos atualziando essa história constantimente.</p>
