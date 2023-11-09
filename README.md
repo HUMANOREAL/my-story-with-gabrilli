@@ -4,3 +4,11 @@
 </h1>
 
 <p align="right">Estamos atualziando essa história constantimente.</p>
+
+<!-- A História de amor entre esses dois começa aqui!. -->
+
+<div text-align="justify">
+  <pre>
+    Não faz tanto tempo que nós conhecemos, só alguns meses, mas eu ainda assim sinto uma sinergia com você.
+  </pre>
+</div>
