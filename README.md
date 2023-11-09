@@ -9,6 +9,8 @@
 
 <div text-align="justify">
   <pre>
-    Não faz tanto tempo que nós conhecemos, só alguns meses, mas eu ainda assim sinto uma sinergia com você.
+    Sei quê não faz tanto tempo que nós conhecemos, só alguns meses, mas eu ainda assim sinto uma sinergia com você.
+    Queria não ser um romântico clichê do século <code font-weight="bold">XXI</code> dizendo que é como se nós conhecessmos a anos, de outras vidas ou quem sabe almas gêmeas, mas talvez seja verdade.
+    O Destino, as constelações e o universo estão felizes por nosso encontro e eu estou em êxtase.
   </pre>
 </div>
